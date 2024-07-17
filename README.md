@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ddressel-hilscher
+- 👋 Hi, I’m Dirk Dressel - ddressel@hilscher.com
 - 👀 I’m interested in DevOps & AWS Cloud Architecture
 - 🌱 I’m currently learning Prometheus
 
